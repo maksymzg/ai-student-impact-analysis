@@ -1,5 +1,7 @@
 # AI Usage & Student Academic Performance — Exploratory Data Analysis
 
+An early-stage exploratory data analysis of generative-AI usage and student academic performance. The project scaffolding (folder structure, dependencies, and configuration) is complete, and the analytical work is about to begin.
+
 ## ⚠️ Data disclaimer
 
 This dataset is synthetic (generated, not collected from real students). The goal of this project is to demonstrate analytical workflow and sound reasoning, not to draw real-world conclusions about the student population.
