@@ -1,0 +1,35 @@
+# Secrets
+.env
+*.env
+kaggle.json
+**/kaggle.json
+
+# Data (do not commit heavy files)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+*.csv
+*.xlsx
+*.parquet
+*.feather
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Charts (optional — uncomment if I don't want them in the repo)
+# reports/figures/*
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
