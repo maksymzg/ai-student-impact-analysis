@@ -62,8 +62,6 @@ ai-student-impact-analysis/
 
 ## Methodological notes
 
-_(to be completed)_
-
 ## Data source
 
 - **Kaggle dataset URL:** https://www.kaggle.com/datasets/ranaghulamnabi/ai-usage-and-student-academic-performance-analysis
