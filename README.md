@@ -63,3 +63,10 @@ ai-student-impact-analysis/
 ## Methodological notes
 
 _(to be completed)_
+
+## Data source
+
+- **Kaggle dataset URL:** https://www.kaggle.com/datasets/ranaghulamnabi/ai-usage-and-student-academic-performance-analysis
+- **Download date:** 2026-06-06
+- **File:** `ai_student_impact_dataset__1_.csv` (50,000 rows, 16 columns)
+- **Nature:** Synthetic dataset (see Data disclaimer above).
